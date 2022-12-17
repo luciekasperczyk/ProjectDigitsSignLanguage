@@ -1,3 +1,32 @@
+"""
+'Main' FILE
+Subject : module project in Computer Science
+Semester : F2022
+Authors :
+    - Nasrdin Ahmed Aden
+    - Zainab Ahmad
+    - Lucie Kasperczyk
+Code inspirations :
+    - Camera :
+        * video capture : https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
+        * video capture : https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html
+        * flipping the image : https://techtutorialsx.com/2019/04/21/python-opencv-flipping-an-image/
+        * put text : https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+    - Random forest :
+        * random forest classifier : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+        * predictions : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier.predict
+        * predictions : https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+        * accuracy : https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+    - CSV
+        * read the file : https://www.w3schools.com/python/pandas/pandas_csv.asp
+        * write : https://www.learnbyexample.org/reading-and-writing-csv-files-in-python/
+        * dialects : https://docs.python.org/3/library/csv.html#csv-fmt-params
+        * flatten : https://numpy.org/doc/stable/reference/generated/numpy.ndarray.flatten.html
+    - Landmarks :
+        * landmarks detection : https://google.github.io/mediapipe/solutions/hands.html
+        * landmarks detection : https://www.analyticsvidhya.com/blog/2022/03/hand-landmarks-detection-on-an-image-using-mediapipe/
+"""
+
 import cv2
 import mediapipe as mp
 import pandas as pd
