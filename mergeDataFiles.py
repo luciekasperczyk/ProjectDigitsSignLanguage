@@ -6,6 +6,7 @@ Authors :
     - Nasrdin Ahmed Aden
     - Zainab Ahmad
     - Lucie Kasperczyk
+    - Hermann Yunus Knudsen
 Code inspirations :
 - Libraries :
     * glob library : https://docs.python.org/3/library/glob.html

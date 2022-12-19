@@ -6,6 +6,7 @@ Authors :
     - Nasrdin Ahmed Aden
     - Zainab Ahmad
     - Lucie Kasperczyk
+    - Hermann Yunus Knudsen
 Code inspirations :
     - Camera :
         * video capture : https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
